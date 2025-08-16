@@ -4,7 +4,7 @@
     // --- [CONFIGURAÇÕES] ----------------------------------------------- 
 
     const API_KEY_LYRICS = "";
-    const API_URL = "";
+    const API_URL = "https://twj.es/metadata/?url=https://stream.zeno.fm/eccwblcjp3wuv";
     const TIME_TO_REFRESH = window?.streams?.timeRefresh || 1000;
 
     // Verificar si el navegador soporta Service Worker

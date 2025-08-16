@@ -4,8 +4,8 @@
   "description": "Emisora La Morena Player",
   "start_url": "https://jhonegalvan.github.io/emisoralamorena/",
   "display": "standalone",
-  "background_color": "#FF0000",
-  "theme_color": "#FF0000",
+  "background_color": "#3F51B5",
+  "theme_color": "#3F51B5",
   "icons": [
     {
       "src": "assets/ds.webp",
@@ -19,8 +19,8 @@
     }
   ],
   "start_url": "./?mode=pwa",
-  "theme_color": "#FF0000",
-  "background_color": "#FF0000", 
+  "theme_color": "#3F51B5",
+  "background_color": "#3F51B5", 
   "orientation": "any", 
   "display": "standalone", 
   "display_override": [

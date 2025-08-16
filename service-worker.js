@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Morenav4';
+const CACHE_NAME = 'Morenav5';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',

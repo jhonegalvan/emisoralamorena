@@ -4,13 +4,13 @@
     // --- [CONFIGURAÇÕES] ----------------------------------------------- 
 
     const API_KEY_LYRICS = "";
-    const API_URL = "https://api.zeno.fm/mounts/metadata/subscribe/eccwblcjp3wuv";
+    const API_URL = "";
     const TIME_TO_REFRESH = window?.streams?.timeRefresh || 1000;
 
     // Verificar si el navegador soporta Service Worker
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-            navigator.serviceWorker.register('https://github.com/')
+            navigator.serviceWorker.register('https://jhonegalvan.github.io/emisoralamorena/service-worker.js')
                 .then(registration => {
                     console.log('ServiceWorker registrado con éxito:', registration.scope);
                 })
